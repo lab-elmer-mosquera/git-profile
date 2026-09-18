@@ -1,6 +1,0 @@
-# Bloquear cualquier llave SSH generada por accidente en la carpeta del proyecto
-id_ed25519_*
-id_ed25519_*.pub
-
-# Bloquear ejecutables compilados del proyecto
-gprofile-includef
